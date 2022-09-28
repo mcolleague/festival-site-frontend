@@ -2,8 +2,8 @@ export const globals = {
   ticketPrice: '£75.00',
   ticketLimit: 125,
   earlyTicketLimit: 75,
-  accountName: 'Maximilian Woodman',
-  accountNumber: '91766797',
-  accountSortCode: '04-00-04',
+  accountName: 'John Smith',
+  accountNumber: '00000000',
+  accountSortCode: '00-00-00',
   infoPostId: 1,
 }
